@@ -1,1 +1,5 @@
 credentials.py
+nbs/credentials.py
+nbs/__pycache__
+nbs/__init__.py
+docs/contract.*
