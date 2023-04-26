@@ -3,3 +3,5 @@ nbs/credentials.py
 nbs/__pycache__
 nbs/__init__.py
 docs/contract.*
+docs/gpt_generations/outputs
+docs/gpt_generations/prompts
