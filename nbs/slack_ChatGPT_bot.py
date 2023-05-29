@@ -28,6 +28,9 @@ client = WebClient(SLACK_BOT_TOKEN)
 @app.event("app_mention")
 def handle_message_events(body, logger):
 
+    # source
+    # https://medium.com/@alexandre.tkint/integrate-openais-chatgpt-within-slack-a-step-by-step-approach-bea43400d311
+
     # Create prompt for ChatGPT
     prompt = str(body["event"]["text"]).split(">")[1].strip()
     print(prompt)
