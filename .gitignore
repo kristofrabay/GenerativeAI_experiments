@@ -7,3 +7,4 @@ docs/gpt_generations/outputs
 docs/gpt_generations/prompts
 nbs/complaints_ZSL_FSL/models
 nbs/complaints_ZSL_FSL/data
+nbs/.ipynb_checkpoints
