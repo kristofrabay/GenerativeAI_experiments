@@ -8,8 +8,5 @@ docs/gpt_generations/prompts
 nbs/complaints_ZSL_FSL/models
 nbs/complaints_ZSL_FSL/data
 nbs/.ipynb_checkpoints
-#nbs/webinar_ng_hf_legislaide.ipynb
 docs/FakeRewrittenPressRelease.docx
 nbs/webinar_ng_hf_legislaide.py
-docs/images/webinar_demo_SD_1.jfif
-docs/images/webinar_demo_SD_2.jfif
